@@ -48,8 +48,6 @@
 5. Go to GitHub, and we see that the repository has a new commit. And we can send a Pull Request to the original repository.
 6. create a pull request
 
-   ***
-
 ## Approving Pull Requests :
 
-Now any member with access can see the Pull Request when they see the original repository, And they can see the proposed changes, Comment on the changes and merge, confirm merge and voila...
+> Now any member with access can see the Pull Request when they see the original repository, And they can see the proposed changes, Comment on the changes and merge, confirm merge and voila...
