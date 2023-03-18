@@ -1,4 +1,6 @@
-for the original
+# Learn Git and Github (2019)
+
+## for the original
 
 - git init
 - git add .
@@ -15,7 +17,8 @@ for the original
 - git pull origin master
 - git log
 
-for contrubtions :
+## for contrubtions :
+
 1- Git GitHub Fork repo
 2- clone the original repo
 3- Configuring Remotes :
