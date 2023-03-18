@@ -9,7 +9,7 @@
   git checkout -b branchName
 - git branch
 - git merge testbranch
-- git remote add origin https://github.com/amjarino/overflows-.git
+- git remote add origin https://github.com/amjarino/learn-git-github.git
 - git branch -M main
 - git push -u origin master
 - git push origin my-new-branch
@@ -33,3 +33,5 @@
   ***
 
   ## Approving Pull Requests :
+
+  Now any member with access can see the Pull Request when they see the original repository, And they can see the proposed changes, Comment on the changes and merge, confirm merge and voila...
