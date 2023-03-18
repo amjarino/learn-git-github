@@ -27,26 +27,26 @@
 
 ## for contrubtions :
 
-1- Git GitHub Fork repo
-2- clone the original repo
+1. Git GitHub Fork repo
+2. clone the original repo
 
 - Creating a branch to work on:
 
   > Before making changes to the project, you should create a new branch and check it out. By keeping changes in their own branch, you follow GitHub Flow and ensure that it will be easier to contribute to the same project again in the future.
 
-  `git  branch branchname
-`git checkout branchname
-  3- Configuring Remotes :
+`git  branch branchname 
+`git checkout branchname 3. Configuring Remotes :
 
 - git remote -v
 - git remote rename origin upstream
 - git remote add origin https://myfork.repo
-  4- git push origin
-  5- Go to GitHub, and we see that the repository has a new commit. And we can send a Pull Request to the original repository.
-  6 - create a pull request
 
-  ***
+4. git push origin
+5. Go to GitHub, and we see that the repository has a new commit. And we can send a Pull Request to the original repository.
+6. create a pull request
 
-  ## Approving Pull Requests :
+   ***
 
-  Now any member with access can see the Pull Request when they see the original repository, And they can see the proposed changes, Comment on the changes and merge, confirm merge and voila...
+## Approving Pull Requests :
+
+Now any member with access can see the Pull Request when they see the original repository, And they can see the proposed changes, Comment on the changes and merge, confirm merge and voila...
